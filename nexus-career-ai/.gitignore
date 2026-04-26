@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+venv/
+.env
+*.env
+ 
+# Node
+node_modules/
+dist/
+.DS_Store
+*.local
+ 
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+ 
+# MongoDB
+*.lock
+ 
+# Logs
+*.log
+npm-debug.log*
